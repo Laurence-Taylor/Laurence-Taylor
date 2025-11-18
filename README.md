@@ -17,7 +17,7 @@ Studying HTML, CSS, Phyton, Relational Data Base.
 ## Bilingual Education Institute (May-2025 - Now) 
 Studying English
 
-🌱 I’m currently learning ...
+🌱 ...
 
 
 <!--
