@@ -14,9 +14,9 @@ Java, SQL, JDBC, Maven, GIT, Javelin, JUnit, Mockito, Logback, Spring Framework,
 
 ## <img width="25" height="25" alt="images-1" src="https://github.com/user-attachments/assets/49a0fee7-b94f-437a-ad72-3b7f482f929a" /> FreeCodeCamp (Jan-2025 - Now) 
 Studying HTML, CSS, Phyton, Relational Data Base.
-![images](https://github.com/user-attachments/assets/6e4cc00b-72de-4c32-aee9-c93f8fd1c3f6)
 
-## Bilingual Education Institute (May-2025 - Now) 
+
+## <img width="20" height="20" alt="BEI" src="https://github.com/user-attachments/assets/0af8ead1-def9-4bbb-8b28-d3d5f2da4a67" /> Bilingual Education Institute (May-2025 - Now) 
 Studying English
 
 
