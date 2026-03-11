@@ -7,7 +7,7 @@ Adept IT specialist, enhancing system efficiency and resolving complex technical
 ### Bachelor of Science | Computer Software Engineer 
 ### Thecnological University of Havana José Antonio Echeverría (CUJAE)
 ### La Habana, Cuba | Aug 1998
-<img width="155" height="158" alt="Untitled" src="https://github.com/user-attachments/assets/669cd64d-4a7d-44a9-baff-e40714a197a4" />
+<img width="55" height="58" alt="Untitled" src="https://github.com/user-attachments/assets/669cd64d-4a7d-44a9-baff-e40714a197a4" />
 
 ## Revature (Feb-2025-2024 – April-2025) 
 Java, SQL, JDBC, Maven, GIT, Javelin, JUnit, Mockito, Logback, Spring Framework, Spring Boot, Spring Web Module, Spring Data JPA Module.
