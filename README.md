@@ -20,8 +20,6 @@ Studying HTML, CSS, Phyton, Relational Data Base.
 Studying English
 
 
-
-
 <!--
 - - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
