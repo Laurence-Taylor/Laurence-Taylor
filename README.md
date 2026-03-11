@@ -16,7 +16,7 @@ Java, SQL, JDBC, Maven, GIT, Javelin, JUnit, Mockito, Logback, Spring Framework,
 Studying HTML, CSS, Phyton, Relational Data Base.
 
 
-## <img width="20" height="20" alt="BEI" src="https://github.com/user-attachments/assets/0af8ead1-def9-4bbb-8b28-d3d5f2da4a67" /> Bilingual Education Institute (May-2025 - Now) 
+## Bilingual Education Institute (May-2025 - Now) 
 Studying English
 
 
