@@ -5,7 +5,7 @@ Adept IT specialist, enhancing system efficiency and resolving complex technical
 
 ## Education
 ### Bachelor of Science | Computer Software Engineer 
-### <img width="15" height="16" alt="Untitled" src="https://github.com/user-attachments/assets/669cd64d-4a7d-44a9-baff-e40714a197a4" /> Thecnological University of Havana José Antonio Echeverría (CUJAE)
+### <img width="19" height="20" alt="Untitled" src="https://github.com/user-attachments/assets/669cd64d-4a7d-44a9-baff-e40714a197a4" /> Thecnological University of Havana José Antonio Echeverría (CUJAE)
 ### La Habana, Cuba | Aug 1998
 
 
