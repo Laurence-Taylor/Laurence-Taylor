@@ -5,12 +5,13 @@ Adept IT specialist, enhancing system efficiency and resolving complex technical
 
 # Education
 
-## <img width="19" height="20" alt="Untitled" src="https://github.com/user-attachments/assets/669cd64d-4a7d-44a9-baff-e40714a197a4" /> Thecnological University of Havana José Antonio Echeverría (CUJAE)
+## <img width="25" height="26" alt="Untitled" src="https://github.com/user-attachments/assets/669cd64d-4a7d-44a9-baff-e40714a197a4" /> Thecnological University of Havana José Antonio Echeverría (CUJAE)
 ### Bachelor of Science | Computer Software Engineer 
 ### La Habana, Cuba | Aug 1998
 
 
-## Revature (Feb-2025-2024 – April-2025) 
+
+## <img width="72" height="32" alt="small_logo" src="https://github.com/user-attachments/assets/744fc56d-3fad-46a9-ab94-91a070835e82" /> Revature (Feb-2025-2024 – April-2025) 
 Java, SQL, JDBC, Maven, GIT, Javelin, JUnit, Mockito, Logback, Spring Framework, Spring Boot, Spring Web Module, Spring Data JPA Module.
 
 ## FreeCodeCamp (Jan-2025 - Now) 
